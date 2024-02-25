@@ -8,4 +8,9 @@ tercere cambio
 tercere cambio
 
 cuarta linea
+<<<<<<< HEAD
+>>>>>>> nuevarama
+=======
+
+linea 5
 >>>>>>> nuevarama
