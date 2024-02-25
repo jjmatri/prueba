@@ -18,4 +18,9 @@ linea 5
 =======
 
 linea 6
+<<<<<<< HEAD
+>>>>>>> nuevarama
+=======
+
+linea  7
 >>>>>>> nuevarama
