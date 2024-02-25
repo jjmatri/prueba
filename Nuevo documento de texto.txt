@@ -2,4 +2,10 @@ prueba git
 
 estoy en la rama nuevaram
 
+<<<<<<< HEAD
 tercere cambio
+=======
+tercere cambio
+
+cuarta linea
+>>>>>>> nuevarama
