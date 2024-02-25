@@ -13,4 +13,9 @@ cuarta linea
 =======
 
 linea 5
+<<<<<<< HEAD
+>>>>>>> nuevarama
+=======
+
+linea 6
 >>>>>>> nuevarama
